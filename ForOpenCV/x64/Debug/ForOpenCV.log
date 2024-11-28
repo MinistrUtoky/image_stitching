@@ -1,0 +1,47 @@
+﻿  ForOpenCV.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(83,22): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(83,22): warning C4244:         with
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(83,22): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(83,22): warning C4244:             _Tp=double
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(83,22): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(84,22): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(84,22): warning C4244:         with
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(84,22): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(84,22): warning C4244:             _Tp=double
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(84,22): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(85,22): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(85,22): warning C4244:         with
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(85,22): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(85,22): warning C4244:             _Tp=double
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(85,22): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(90,30): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(90,30): warning C4244:         with
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(90,30): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(90,30): warning C4244:             _Tp=double
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(90,30): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(91,28): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(91,28): warning C4244:         with
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(91,28): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(91,28): warning C4244:             _Tp=double
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(91,28): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(92,28): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(92,28): warning C4244:         with
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(92,28): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(92,28): warning C4244:             _Tp=double
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ImageStitching.h(92,28): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ForOpenCV.cpp(5,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ForOpenCV.cpp(48,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ForOpenCV.cpp(130,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ForOpenCV.cpp(165,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ForOpenCV.cpp(192,55): warning C4267: 'argument': conversion from 'size_t' to '_Tp', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ForOpenCV.cpp(192,55): warning C4267:         with
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ForOpenCV.cpp(192,55): warning C4267:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ForOpenCV.cpp(192,55): warning C4267:             _Tp=int
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ForOpenCV.cpp(192,55): warning C4267:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ForOpenCV.cpp(222,102): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ForOpenCV.cpp(222,102): warning C4244:         with
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ForOpenCV.cpp(222,102): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ForOpenCV.cpp(222,102): warning C4244:             _Tp=int
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\ForOpenCV.cpp(222,102): warning C4244:         ]
+  ForOpenCV.vcxproj -> C:\Users\viqto\source\repos\OpenCV\x64\Debug\ForOpenCV.exe
